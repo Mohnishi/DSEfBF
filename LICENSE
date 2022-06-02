@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Motoya
+Copyright (c) 2022 Authors of Dynamic Structure Estimation from Bandit Feedback
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Some files depend on external licenses:
+The licenses of Julia and Lyceum are [The MIT License; Copyright (c) 2009-2021: Jeff Bezanson, Stefan Karpinski,
+Viral B. Shah, and other contributors: https://github.com/JuliaLang/julia/contributors], and [The MIT
+License; Copyright (c) 2019 Colin Summers, The Contributors of Lyceum], respectively.
